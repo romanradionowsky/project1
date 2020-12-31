@@ -1,5 +1,5 @@
 # hey
-<<<<<<< HEAD
-=======
+
 some_update
->>>>>>> dev-kraken
+
+update from git kraken
